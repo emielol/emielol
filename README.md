@@ -17,7 +17,13 @@ Quant trading + DS/MLE technical interviews — probability, mental math, market
 
 ## Stack
 
-`Python` `R` `C++` `TensorFlow` `PyTorch` `scikit-learn` `Pandas` `NumPy` `Flask` `Tableau`
+| | |
+|---|---|
+| **Languages** | Python · R · C++ · JavaScript |
+| **Machine Learning** | Logistic Regression · SVMs · CNNs · NLP · Model Evaluation |
+| **Statistics** | Hypothesis Testing · Odds Ratios & Confidence Intervals · Regression Analysis · Descriptive Statistics |
+| **Frameworks & Libraries** | TensorFlow · PyTorch · scikit-learn · Pandas · NumPy · Flask |
+| **Tools** | Git · Jupyter · Excel · Tableau |
 
 ## Also
 
