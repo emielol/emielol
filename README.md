@@ -1,6 +1,6 @@
 # Hi, I'm Noemie 👋
 
-Data Science @ Hamilton College — building toward quant research / ML engineering.
+Data Science Junior @ Hamilton College — building toward quant research / ML engineering.
 
 I like problems where the math has to hold up: hypothesis testing, model evaluation, signal vs. noise. Currently deep in orderbook mechanics, probability drills, and NLP on financial text.
 
