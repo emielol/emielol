@@ -2,7 +2,7 @@
 
 Data Science Junior @ Hamilton College — building toward quant research / ML engineering.
 
-I like problems where the math has to hold up: hypothesis testing, model evaluation, signal vs. noise. Currently deep in orderbook mechanics, probability drills, and NLP on financial text.
+I'm interested in quantitative analysis such hypothesis testing and model evaluation.
 
 ## What I'm working on
 
@@ -11,15 +11,13 @@ I like problems where the math has to hold up: hypothesis testing, model evaluat
 - 🧠 **Symptom-based disease predictor** — SVM classifier, 95% out-of-sample accuracy via k-fold CV, deployed behind a Flask API.
 - 🕵️ **Deepfake image detection** — CNN inspired by MesoNet, ~90% validation accuracy, focused on low-level spatial artifacts rather than high-level facial features.
 
-## Currently prepping for
 
-Quant trading + DS/MLE technical interviews — probability, mental math, market microstructure, and the usual ML fundamentals / DS&A gauntlet.
 
 ## Stack
 
 | | |
 |---|---|
-| **Languages** | Python · R · C++ · JavaScript |
+| **Languages** | Python · R · C++ · SQL |
 | **Machine Learning** | Logistic Regression · SVMs · CNNs · NLP · Model Evaluation |
 | **Statistics** | Hypothesis Testing · Odds Ratios & Confidence Intervals · Regression Analysis · Descriptive Statistics |
 | **Frameworks & Libraries** | TensorFlow · PyTorch · scikit-learn · Pandas · NumPy · Flask |
@@ -27,6 +25,6 @@ Quant trading + DS/MLE technical interviews — probability, mental math, market
 
 ## Also
 
-Founding President of Hamilton's NSBE chapter · Break Through Tech AI Fellow · DJ since middle school (techno, mostly) · fluent in Haitian Creole
+Founding President of Hamilton's NSBE chapter · Break Through Tech AI Fellow · DJ since middle school (techno, mostly) · Fluent in Haitian Creole
 
 📫 nflorant@hamilton.edu · [linkedin.com/in/noemief](https://linkedin.com/in/noemief)
